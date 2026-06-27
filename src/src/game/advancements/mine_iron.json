@@ -1,0 +1,8 @@
+{
+    "name": "钢铁意志",
+    "description": "挖掘一块铁矿石。",
+    "id": "mine_iron",
+    "trigger": ["mine.iron"],
+    "img": "iron_ore.png",
+    "prev": "mine_stone"
+}

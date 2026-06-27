@@ -1,0 +1,8 @@
+{
+    "name": "黄金梦想",
+    "description": "挖掘一块金矿石。",
+    "id": "mine_gold",
+    "trigger": ["mine.gold"],
+    "img": "gold_ore.png",
+    "prev": "mine_iron"
+}

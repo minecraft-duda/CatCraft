@@ -1,0 +1,8 @@
+{
+    "name": "工具升级",
+    "description": "购买第一把镐子。",
+    "id": "buy_pickaxe",
+    "trigger": ["buy.pickaxe"],
+    "img": "wooden_pickaxe.png",
+    "prev": "mine_dirt"
+}

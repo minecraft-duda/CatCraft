@@ -1,0 +1,8 @@
+{
+    "name": "钻石永恒",
+    "description": "挖掘一块钻石矿石。",
+    "id": "mine_diamond",
+    "trigger": ["mine.diamond"],
+    "img": "diamond_ore.png",
+    "prev": "mine_gold"
+}

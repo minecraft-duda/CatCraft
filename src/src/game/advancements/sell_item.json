@@ -1,0 +1,8 @@
+{
+    "name": "商人初体验",
+    "description": "出售一件物品。",
+    "id": "sell_item",
+    "trigger": ["sell.item"],
+    "img": "dirt.png",
+    "prev": "mine_dirt"
+}

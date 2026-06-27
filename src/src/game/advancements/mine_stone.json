@@ -1,0 +1,8 @@
+{
+    "name": "石匠之路",
+    "description": "挖掘一块石头。",
+    "id": "mine_stone",
+    "trigger": ["mine.stone"],
+    "img": "stone.png",
+    "prev": "mine_dirt"
+}

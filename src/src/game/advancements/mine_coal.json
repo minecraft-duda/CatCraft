@@ -1,0 +1,8 @@
+{
+    "name": "黑色宝藏",
+    "description": "挖掘一块煤矿石。",
+    "id": "mine_coal",
+    "trigger": ["mine.coal"],
+    "img": "coal_ore.png",
+    "prev": "mine_stone"
+}

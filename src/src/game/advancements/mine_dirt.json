@@ -1,0 +1,7 @@
+{
+    "name": "第一镐土！",
+    "description": "挖掘一块泥土。",
+    "id": "mine_dirt",
+    "trigger": ["mine.dirt"],
+    "img": "dirt.png"
+}
